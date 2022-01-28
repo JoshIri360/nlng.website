@@ -5,6 +5,11 @@ body {
   z-index: 2;
 }
 
+.v-more{
+  padding-left: 9rem;
+  padding-right: 9rem;
+}
+
 .carousel {
   margin-bottom: 4rem;
 }
