@@ -6,8 +6,8 @@ body {
 }
 
 .v-more{
-  padding-left: 9rem;
-  padding-right: 9rem;
+  padding-left: 9rem!important;
+  padding-right: 9rem !important;
 }
 
 .carousel {
