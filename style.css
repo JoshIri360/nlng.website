@@ -11,8 +11,8 @@ body {
 }
 
 .col-lg-6.p-holder.offset-lg-0.p-0.overflow-hidden.shadow-lg.tp-div {
-    width: 35.62rem;
-    border-radius: 10px 10px 10px 10px!important;
+    width: 3rem;
+    border-radius: 10px 0 0 0;
 }
 
 .carousel {
@@ -266,7 +266,7 @@ p {
 }
 
 .tp-img {
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 0 0 0;
 }
 
 .card-holder, {
