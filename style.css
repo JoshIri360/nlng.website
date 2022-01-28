@@ -10,10 +10,9 @@ body {
   padding-right: 9rem !important;
 }
 
-.col-lg-6.p-holder.offset-lg-0.p-0.overflow-hidden.shadow-lg.tp-div {
-    width: 3rem;
-    border-radius: 10px 0 0 0;
-}
+/* .img-con {
+    width: 36.375rem;
+} */
 
 .carousel {
   margin-bottom: 4rem;
@@ -74,6 +73,14 @@ body {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+
+/* @media (min-width: 993px) {
+  .overflow-hidden {
+    overflow: visible!important;
+  }
+} */
+
+
 
 @media (min-width: 40em) {
   /* Bump up size of carousel content */
