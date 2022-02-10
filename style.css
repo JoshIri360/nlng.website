@@ -3,6 +3,12 @@ body {
   font-family: 'Poppins', sans-serif;
   color: #5a5a5a;
   z-index: 2;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  width: 100%;
 }
 
 .v-more{
@@ -13,7 +19,7 @@ body {
 
 .v-more-b{
   padding-left: 0px!important;
-  padding-right: 0px!important; 
+  padding-right: 0px!important;
 }
 
 /* .img-con {
